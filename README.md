@@ -1,2 +1,2 @@
 # delta-demo
-Teaching git and github
+Teaching git and github.
